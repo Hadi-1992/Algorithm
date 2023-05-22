@@ -1,7 +1,5 @@
 package selectionsort;
 
-import java.util.List;
-
 public class SelectionSort {
     public static void selectionSort(int[] arr) {
 
