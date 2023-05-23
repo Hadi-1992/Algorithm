@@ -1,4 +1,4 @@
-package recercivefunctions;
+package recursivefunctions;
 
 public class Factorial {
     public int factorial(int a){

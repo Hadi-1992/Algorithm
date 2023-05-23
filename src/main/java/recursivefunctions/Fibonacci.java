@@ -1,4 +1,4 @@
-package recercivefunctions;
+package recursivefunctions;
 
 public class Fibonacci {
     public int fibonacci(int a) {
